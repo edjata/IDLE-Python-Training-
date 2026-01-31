@@ -1,0 +1,10 @@
+user_input = input("Enter some text: ")
+user_input4 = user_input.replace("a", "4")
+user_input8 = user_input4.replace("b", "8")
+user_inpute = user_input8.replace("e", "3")
+user_inputl = user_inpute.replace("l", "1")
+user_inputo = user_inputl.replace("o", "0")
+user_inputs = user_inputo.replace("s", "5")
+user_inputt = user_inputs.replace("t", "7")
+
+print(user_inputt)
